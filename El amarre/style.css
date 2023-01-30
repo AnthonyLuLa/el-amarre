@@ -1,0 +1,41 @@
+body {
+    padding:0;
+    margin: 0;
+    background-image: url('img/dogeMeme.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+h1{
+    color:blueviolet ;
+}
+
+/* video{
+    margin:0;
+    padding-top: 40px;
+} */
+
+.modo_sex {
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: #901238;
+    z-index: 1000;
+}
+
+#btn_si {
+    background-color: yellowgreen;
+    border-color: yellow;
+    color: black;
+    font-size: xx-large;
+    padding:32;
+    text-align: center;
+    border-radius: 30%;
+}
